@@ -1,2 +1,2 @@
 # hardware
-Hardware Examples for Software Logsitics Sensor Boards
+Hardware Examples for Software Logistics Sensor Boards
